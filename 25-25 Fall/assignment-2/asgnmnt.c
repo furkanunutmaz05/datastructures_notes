@@ -1,8 +1,8 @@
-// Ad:
-// Soyad:
-// Okul No:
-// Sınıf:
-// Öğrenim Türü (Örgün/İkinci Öğretim):
+// Ad:Furkan
+// Soyad:Unutmaz
+// Okul No:232523045
+// Sınıf:3.sınıf
+// Öğrenim Türü (Örgün/İkinci Öğretim):İkinci Öğretim
 
 #include <stdio.h>
 
